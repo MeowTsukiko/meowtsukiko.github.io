@@ -1,0 +1,37 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>众神未曾眷顾之人</title>
+        <link>https://meowtsukiko.github.io/</link>
+        <description>众神未曾眷顾之人</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://meowtsukiko.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>about</title>
+    <link>https://meowtsukiko.github.io/posts/1.maintheme/</link>
+    <pubDate>Tue, 05 Oct 2021 01:17:23 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://meowtsukiko.github.io/posts/1.maintheme/</guid>
+    <description><![CDATA[关于我。]]></description>
+</item><item>
+    <title>开篇-数字时代</title>
+    <link>https://meowtsukiko.github.io/posts/2.internet/</link>
+    <pubDate>Tue, 05 Oct 2021 03:17:02 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://meowtsukiko.github.io/posts/2.internet/</guid>
+    <description><![CDATA[特色不互联网时代下的反抗。]]></description>
+</item><item>
+    <title>游戏人生-开篇词</title>
+    <link>https://meowtsukiko.github.io/posts/3.game-main/</link>
+    <pubDate>Tue, 05 Oct 2021 03:29:58 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://meowtsukiko.github.io/posts/3.game-main/</guid>
+    <description><![CDATA[玩你所爱。]]></description>
+</item><item>
+    <title>动画革命-开篇词</title>
+    <link>https://meowtsukiko.github.io/posts/5.anime/</link>
+    <pubDate>Tue, 05 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://meowtsukiko.github.io/posts/5.anime/</guid>
+    <description><![CDATA[热爱不仅是说说而已。]]></description>
+</item></channel>
+</rss>
