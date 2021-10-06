@@ -6,33 +6,12 @@
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 05 Oct 2021 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://meowtsukiko.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>about</title>
+    <title>食用说明</title>
     <link>https://meowtsukiko.github.io/posts/1.maintheme/</link>
     <pubDate>Tue, 05 Oct 2021 01:17:23 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://meowtsukiko.github.io/posts/1.maintheme/</guid>
-    <description><![CDATA[关于我。]]></description>
-</item><item>
-    <title>开篇-数字时代</title>
-    <link>https://meowtsukiko.github.io/posts/2.internet/</link>
-    <pubDate>Tue, 05 Oct 2021 03:17:02 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://meowtsukiko.github.io/posts/2.internet/</guid>
-    <description><![CDATA[特色不互联网时代下的反抗。]]></description>
-</item><item>
-    <title>游戏人生-开篇词</title>
-    <link>https://meowtsukiko.github.io/posts/3.game-main/</link>
-    <pubDate>Tue, 05 Oct 2021 03:29:58 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://meowtsukiko.github.io/posts/3.game-main/</guid>
-    <description><![CDATA[玩你所爱。]]></description>
-</item><item>
-    <title>游戏人生-原神</title>
-    <link>https://meowtsukiko.github.io/posts/4.game-genshin/</link>
-    <pubDate>Tue, 05 Oct 2021 03:29:58 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://meowtsukiko.github.io/posts/4.game-genshin/</guid>
-    <description><![CDATA[天上掉下个荧妹妹。]]></description>
+    <description><![CDATA[关于这儿的一切。]]></description>
 </item><item>
     <title>动画革命-开篇词</title>
     <link>https://meowtsukiko.github.io/posts/5.anime/</link>
@@ -47,5 +26,26 @@
     <author>作者</author>
     <guid>https://meowtsukiko.github.io/posts/6.college-moving-forward/</guid>
     <description><![CDATA[《春宵苦短少女前进吧》]]></description>
+</item><item>
+    <title>游戏人生-原神</title>
+    <link>https://meowtsukiko.github.io/posts/4.game-genshin/</link>
+    <pubDate>Tue, 05 Oct 2021 03:29:58 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://meowtsukiko.github.io/posts/4.game-genshin/</guid>
+    <description><![CDATA[天上掉下个荧妹妹。]]></description>
+</item><item>
+    <title>游戏人生-开篇词</title>
+    <link>https://meowtsukiko.github.io/posts/3.game-main/</link>
+    <pubDate>Tue, 05 Oct 2021 03:29:58 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://meowtsukiko.github.io/posts/3.game-main/</guid>
+    <description><![CDATA[玩你所爱。]]></description>
+</item><item>
+    <title>开篇-数字时代</title>
+    <link>https://meowtsukiko.github.io/posts/2.internet/</link>
+    <pubDate>Tue, 05 Oct 2021 03:17:02 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://meowtsukiko.github.io/posts/2.internet/</guid>
+    <description><![CDATA[特色不互联网时代下的反抗。]]></description>
 </item></channel>
 </rss>
